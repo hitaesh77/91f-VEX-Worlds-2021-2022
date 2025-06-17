@@ -1,6 +1,6 @@
 # 91f-VEX-Worlds-2021-2022
 
-*Designed and Built by Andrew Chan*
+*Designed and Built by Andrew Chan* - 
 *Designed and Programmed by Hitaesh Saravanarajan*
 
 driver function and autonomous code for worlds bot
